@@ -1,4 +1,4 @@
-# This repository contains jupyter notebooks of Machine Learning projects.
+## This repository contains my Machine Learning projects
 
 |Sr No.| Project Title | Commit Date|
 |------|---------------|------------|
