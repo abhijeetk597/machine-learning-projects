@@ -2,4 +2,4 @@
 
 |Sr No.| Project Title | Commit Date|
 |------|---------------|------------|
-|01|[Bulldozer Price Prediction](.Bulldozer-price-prediction)|22-12-2023|
+|01|[Bulldozer Price Prediction](https://github.com/abhijeetk597/machine-learning-projects/tree/main/Bulldozer-price-prediction)|22-12-2023|
