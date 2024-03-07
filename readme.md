@@ -1,5 +1,7 @@
 ## This repository contains my Machine Learning projects
 
-|Sr No.| Project Title | Commit Date|
+|Sr No.| Project Title | Tools |
 |------|---------------|------------|
-|01|[Bulldozer Price Prediction](https://github.com/abhijeetk597/machine-learning-projects/tree/main/Bulldozer-price-prediction)|22-12-2023|
+|01|[Bulldozer Price Prediction](https://github.com/abhijeetk597/machine-learning-projects/tree/main/Bulldozer-price-prediction)|Jupyter Notebook|
+|02|[Heart Disease Prediction](https://github.com/abhijeetk597/machine-learning-projects/tree/main/heart-disease-project)|Jupyter Notebook|
+|03|[Predictive Analysis of Bank Telemarketing EDA]()|Jupyter Notebook|
