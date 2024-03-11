@@ -18,4 +18,6 @@ In this case, it's a historical sales data of bulldozers. Including details like
 
 After basic EDA, **Random Forest Regressor model** from Scikit-Learn Library was trained to predict bulldozer prices.
 
-## 4. [Kaggle link](https://www.kaggle.com/code/abhijeetk597/bulldozer-price-prediction)
+## 4. [Notebook](https://github.com/abhijeetk597/machine-learning-projects/blob/main/Bulldozer-price-prediction/bulldozer-price-prediction.ipynb)
+
+## 4. [Kaggle](https://www.kaggle.com/code/abhijeetk597/bulldozer-price-prediction)
